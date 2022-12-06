@@ -1,0 +1,7 @@
+{
+  "name": "FutureStarApp",
+  "displayName": "FutureStarApp",
+  "expo": {
+    "scheme": "futurestar"
+  }
+}
